@@ -1,0 +1,23 @@
+src/content/docs/k2/features/consume.mdx
+  s_c54362ebe650bd::t_41f2ff0e3131a1 11,19-20,26-27
+src/content/docs/k2/features/produce.mdx
+  s_c54362ebe650bd::t_dfc3eb94ac6a98 36
+src/content/docs/k2/platform/limits.mdx
+  s_c54362ebe650bd::t_8ae0b170a683d6 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2ae733a485c8225e0d0d718cc141d4370ea27b3e",
+  "prompts": {},
+  "sessions": {
+    "s_c54362ebe650bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0fa32d7-de36-4e2e-b2a4-3f60496f3714",
+        "model": "unknown"
+      },
+      "human_author": "Micah Wylde <mwylde@cloudflare.com>"
+    }
+  }
+}

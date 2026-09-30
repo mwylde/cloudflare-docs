@@ -1,0 +1,19 @@
+.github/CODEOWNERS
+  s_0ec52ea345fa49::t_468b4fae983e5b 524-531
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "997be890be1158293830f6393c74596c4df0806c",
+  "prompts": {},
+  "sessions": {
+    "s_0ec52ea345fa49": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2e0a3c6d-376f-44fa-ba56-141d1ff04369",
+        "model": "unknown"
+      },
+      "human_author": "Micah Wylde <mwylde@cloudflare.com>"
+    }
+  }
+}
